@@ -8,8 +8,9 @@
 <div align="center">
   <sup>Status</sup>
    <a href="https://github.com/Ravensoft128/cmd-commands">
-     https://img.shields.io/badge/Number%20of%20Commands-0-blue
+     <img alt="Number of Commands" src="https://img.shields.io/badge/Number%20of%20Commands-000-blue"
   </a>
+</div>
     
    
   
