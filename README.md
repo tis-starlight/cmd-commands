@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>CMD Commands</h1>
+  <h1>CMD Commands</h1> 
   <i>A collective list of Windows CMD Commands</i>
 </div>
 
@@ -7,6 +7,7 @@
 
 <div align="center">
   <sup>Status</sup>
+  <br>
    <a href="https://github.com/Ravensoft128/cmd-commands">
      <img alt="Number of Commands" src="https://img.shields.io/badge/Number%20of%20Commands-000-blue" />
   </a>
@@ -73,10 +74,91 @@
 ### D
 | Commands | Description |
 | ---------|------------ |
+| [date](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490889(v=technet.10))	 | Used to display the date or change it |
+| [defrag](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/defrag)	 | Used to defragment system hard drive |
+| [del](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/del)	 | Used to delete a file(s) |
+| [delprof](https://www.microsoft.com/en-us/download/details.aspx?id=5405)	 | Used to delete user profile(s) |
+| [devcon](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/devcon-general-commands)	 | Access the command line device manager utility |
+| [dir](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/dir)	 | Used to display files and folders list |
+| [dirquota](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/cc754836(v=ws.11))	 | Manage File Server Resource Manager quotas |
+| [diruse](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc736515(v=ws.10))	 | Used to display disk usage |
+| [diskcomp](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/diskcomp)	 | Compare contents of two floppy disks |
+| [diskcopy](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/diskcopy)	 | Copy data of one floppy disk to another |
+| [diskpart](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/diskpart)	 | Make changes to partitions of storage, both internal and connected |
+| [diskshadow](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/diskshadow)	 | Access the Disk Shadow Copy Service |
+| [diskuse](https://docs.microsoft.com/en-us/sysinternals/downloads/du)	 | View used space in folder(s) |
+| [doskey](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/doskey)	 | Used to edit command line, recall commands, and create macros |
+| [driverquery](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/driverquery)	 | Display a list of installed device drivers |
+| [dsacls](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/cc771151(v=ws.11))	 | View and edit access control entries for objects in active directory |
+| [dsadd](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc753708(v=ws.11))	 | Used to add objects to active directory |
+| [dsget](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc755162(v=ws.11))	 | View objects in active directory |
+| [dsquery](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc732952(v=ws.11))	 | Find objects in an active directory |
+| [dsmod](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc732406(v=ws.11))	 | Used to modify objects in an active directory |
+| [dsmove](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731094(v=ws.11))	 | Rename or move an active directory object |
+| [dsrm](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731865(v=ws.11))	 | Remove objects from an active directory |
+| [dsmgmt](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc732473(v=ws.11))	 | Manage Active Directory Lightweight Directory Services |
 
+**[⬆ Back to Index](#index)**
+### E
+| Commands | Description |
+| ---------|------------ |
+| [echo](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/echo)	 | Turn command-echoing feature on/off, display a message on the screen |
+| [endlocal](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/endlocal)	 | End localization environment changes in a batch file |
+| [erase](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/erase)	 | Used to delete on or more file(s) |
+| [eventcreate](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/eventcreate)	 | Add custom event to Windows event log (Admin rights required) |
+| [eventquery](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/eventquery)	 | Display list of events and their properties from event logs |
+| [eventtriggers](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/eventtriggers)	 | Display and configure event triggers on local and remote machines |
+| [exit](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/exit)	 | Exit the command line (Quit current batch script) |
+| [expand](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand)	 | Uncompress one or more .CAB file(s) |
+| [extract](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/extract)	 | Uncompress one or more Windows cabinet file(s) |
 
+**[⬆ Back to Index](#index)**
+### F
+| Commands | Description |
+| ---------|------------ |
+| [fc](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/fc)	 | Used to compare two files |
+| [find](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/find)	 | Used to search a specified text string in a file |
+| [findstr](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/findstr)	 | Used to find string patterns in files |
+| [finger](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/finger)	 | Display information about user(s) on a specified remote computer |
+| [flattemp](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/flattemp)	 | Used to enable/disable flat temporary folders |
+| [For](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/for)	 | Run a command in a loop for a file(s) for defined parameter |
+| [forfiles](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/forfiles)	 | Used for batch processing of selected file(s) |
+| [format](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/format)	 | Used to format a disk |
+| [freedisk](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/freedisk)	 | Used to check free space on a disk |
+| [fsutil](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/fsutil)	 | File system utility to manage file and drive properties |
+| [ftp](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ftp)	 | Use FTP service to transfer files from one PC to another |
+| [ftype](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ftype)	 | Display/ Modify file extension type associations |
 
+**[⬆ Back to Index](#index)**
+### G
+| Commands | Description |
+| ---------|------------ |
+| [getmac](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/getmac)	 | Used to display the MAC address of your network adapter |
+| [goto](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/goto)	 | Used to direct a batch program to a line identified by a label |
+| [gpresult](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/gpresult)	 | Display Group Policy Settings and Resultant Set of Policy for a user |
+| [gpupdate](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/gpupdate)	 | Update local and active directory based on group policy settings |
+| [graftabl](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/graftabl)	 | Turn on the ability to display an extended character in graphics mode |
 
+**[⬆ Back to Index](#index)**
+### H
+| Commands | Description |
+| ---------|------------ |
+| [help](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/help)	 | Display a list of commands and see online information for them |
+| [hostname](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/hostname)	 | Used to display hostname of the computer |
+
+**[⬆ Back to Index](#index)**
+### I
+| Commands | Description |
+| ---------|------------ |
+| [icacls](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/icacls)	 | Used to change permissions of files and folders |
+| [iexpress](https://docs.microsoft.com/en-us/internet-explorer/ie11-ieak/iexpress-command-line-options)	 | Used to create a self-extracting zip archive |
+| [if](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/if)	 | Used for conditional processing in batch programs |
+| [help](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/help)	 | Display a list of commands and see online information for them |
+| [help](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/help)	 | Display a list of commands and see online information for them |
+| [help](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/help)	 | Display a list of commands and see online information for them |
+| [help](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/help)	 | Display a list of commands and see online information for them |
+| [help](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/help)	 | Display a list of commands and see online information for them |
+| [help](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/help)	 | Display a list of commands and see online information for them |
 
 
 
