@@ -1,6 +1,5 @@
 <div align="center">
- <img width="200" src="![web-programming](https://user-images.githubusercontent.com/85295120/133717509-d1f747b5-534c-4936-b5a6-163d8b79804e.png)
-">
+ <img width="150" src="https://user-images.githubusercontent.com/85295120/133717509-d1f747b5-534c-4936-b5a6-163d8b79804e.png">
   <h1>CMD Commands</h1> 
   <i>A collective list of Windows CMD Commands</i>
 </div>
@@ -155,13 +154,37 @@
 | [icacls](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/icacls)	 | Used to change permissions of files and folders |
 | [iexpress](https://docs.microsoft.com/en-us/internet-explorer/ie11-ieak/iexpress-command-line-options)	 | Used to create a self-extracting zip archive |
 | [if](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/if)	 | Used for conditional processing in batch programs |
-| [help](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/help)	 | Display a list of commands and see online information for them |
-| [help](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/help)	 | Display a list of commands and see online information for them |
-| [help](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/help)	 | Display a list of commands and see online information for them |
-| [help](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/help)	 | Display a list of commands and see online information for them |
-| [help](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/help)	 | Display a list of commands and see online information for them |
-| [help](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/help)	 | Display a list of commands and see online information for them |
+| [ipconfig](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig)	 | Display and change Windows IP configuration |
+| [ipseccmd](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490922(v=technet.10))	 | Used to configure IP Security policies |
+| [ipxroute](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ipxroute)	 | Display and modify routing table information used by IPX protocol |
+| [irftp](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/irftp)	 | Used to send files over an infrared link (infrared functionality required) |
 
+**[⬆ Back to Index](#index)**
+### L
+| Commands | Description |
+| ---------|------------ |
+| [label](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/label)	 | Used to change the name of a disk |
+| [lodctr](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/lodctr)	 | Update registry values with latest performance counters |
+| [logman](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logman)	 | Used to manage performance monitor logs |
+| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
+| [lpq](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/lpq)	 | Displays print queue status |
+| [lpr](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/lpr)	 | Used to send a file to a computer running the Line Printer Daemon service |
+
+**[⬆ Back to Index](#index)**
+### M
+| Commands | Description |
+| ---------|------------ |
+| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
+| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
+| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
+| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
+| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
+| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
+| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
+| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
+| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
+| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
+| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
 
 
 
