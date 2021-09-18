@@ -57,7 +57,7 @@
 | [attrib](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490868(v=technet.10))	 ✔️		| Used to change file attributes |  
 | [assoc](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490865(v=technet.10))	 | Used to change associations for file extensions | 
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### B
 | Commands | Description |
 | ---------|------------ |
@@ -67,7 +67,7 @@
 | [bootcfg](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490870(v=technet.10))	 | Used to edit boot configuration in Windows |
 | [break](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490871(v=technet.10))	 | Enable/Disable break capability (CTRL+C) in CMD |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### C
 | Commands | Description |
 | ---------|------------ |
@@ -127,7 +127,7 @@
 | [dsrm](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731865(v=ws.11))	 | Remove objects from an active directory |
 | [dsmgmt](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc732473(v=ws.11))	 | Manage Active Directory Lightweight Directory Services |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### E
 | Commands | Description |
 | ---------|------------ |
@@ -141,7 +141,7 @@
 | [expand](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand)	 | Uncompress one or more .CAB file(s) |
 | [extract](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/extract)	 | Uncompress one or more Windows cabinet file(s) |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### F
 | Commands | Description |
 | ---------|------------ |
@@ -158,7 +158,7 @@
 | [ftp](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ftp)	 ✔️		| Use FTP service to transfer files from one PC to another |
 | [ftype](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ftype)	 | Display/ Modify file extension type associations |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### G
 | Commands | Description |
 | ---------|------------ |
@@ -168,14 +168,14 @@
 | [gpupdate](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/gpupdate)	 | Update local and active directory based on group policy settings |
 | [graftabl](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/graftabl)	 | Turn on the ability to display an extended character in graphics mode |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### H
 | Commands | Description |
 | ---------|------------ |
 | [help](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/help)	 ✔️		| Display a list of commands and see online information for them |
 | [hostname](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/hostname)	 ✔️		| Used to display hostname of the computer |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### I
 | Commands | Description |
 | ---------|------------ |
@@ -187,7 +187,7 @@
 | [ipxroute](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ipxroute)	 | Display and modify routing table information used by IPX protocol |
 | [irftp](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/irftp)	 | Used to send files over an infrared link (infrared functionality required) |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### L
 | Commands | Description |
 | ---------|------------ |
@@ -198,7 +198,7 @@
 | [lpq](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/lpq)	 | Displays print queue status |
 | [lpr](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/lpr)	 | Used to send a file to a computer running the Line Printer Daemon service |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### M
 | Commands | Description |
 | ---------|------------ |
@@ -217,7 +217,7 @@
 | [msinfo32](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/msinfo32)	 ✔️		| Display system information |
 | [mstsc](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/mstsc)	 | Create a remote desktop connection |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### N
 | Commands | Description |
 | ---------|------------ |
@@ -228,7 +228,7 @@
 | [ntbackup](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ntbackup)	 | Backup data to tape using CMD or batch file |
 | [ntcmdprompt](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ntcmdprompt)	 | Runs cmd.exe instead of command.exe in an MS-DOS application |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### O
 | Commands | Description |
 | ---------|------------ |
@@ -236,7 +236,7 @@
 | [online](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/online)	 | Takes an offline disk or volume to the online state |
 | [openfiles](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/openfiles)	 | Queries or displays open files |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### P
 | Commands | Description |
 | ---------|------------ |
@@ -262,14 +262,14 @@
 | [prompt](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/prompt)	 ✔️		| Used to change the Prompt in CMD |
 | [pushd](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/pushd)	 | Change current folder and store previous folder for use by POPD |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### Q
 | Commands | Description |
 | ---------|------------ |
 | [query](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/query)	 ✔️		| Display information about processes |
 | [quser](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/quser)	 | Displays information about user sessions on a Remote Desktop Session Host server |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### R
 | Commands | Description |
 | ---------|------------ |
@@ -289,7 +289,7 @@
 | [runas](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490994(v=technet.10))	 | Run a program as a different user |
 | [rundll32](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/rundll32)	 ✔️		| Used to run a DLL program |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### S
 | Commands | Description |
 | ---------|------------ |
@@ -308,7 +308,7 @@
 | [subst](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/subst)	 | Associate a path with a drive letter |
 | [systeminfo](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/systeminfo)	 ✔️		| Display detailed configuration information about the computer |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### T
 | Commands | Description |
 | ---------|------------ |
@@ -330,14 +330,14 @@
 | [typeperf](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/typeperf)	 | Write performance data to a CMD window or a log file |
 | [tzutil](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tzutil)	 ✔️		| Time Zone Utility |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### U
 | Commands | Description |
 | ---------|------------ |
 | [uniqueid](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/uniqueid)	 ✔️		| Displays or sets the GUID partition table (GPT) identifier or master boot record (MBR) signature |
 | [unlodctr](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/unlodctr)	 | Remove performance counter names and explain text for a service from the registry |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### V
 | Commands | Description |
 | ---------|------------ |
@@ -346,7 +346,7 @@
 | [vol](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/vol)	 ✔️		| Show disk volume label and serial number |
 | [vssadmin](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/vssadmin)	 | Show shadow copy backups, installed shadow copy writers and providers |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### W
 | Commands | Description |
 | ---------|------------ |
@@ -358,7 +358,7 @@
 | [wmic](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wmic)	 | Windows Management Instrumentation Command |
 | [wscript](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wscript)	 | Used to execute scripts in a variety of languages |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to Index](#-index)**
 ### X
 | Commands | Description |
 | ---------|------------ |
