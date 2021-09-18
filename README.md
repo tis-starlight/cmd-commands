@@ -174,20 +174,97 @@
 ### M
 | Commands | Description |
 | ---------|------------ |
-| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
-| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
-| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
-| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
-| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
-| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
-| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
-| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
-| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
-| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
-| [logoff](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/logoff)	 | Log a user off |
+| [macfile](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490929(v=technet.10))	 | Manage files server for Mackintosh |
+| [makecab](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/makecab)	 | Used to create .cab files |
+| [md](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/md)	 | Used to create directories and sub-directories |
+| [mkdir](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/mkdir)	 | Used to create directories and sub-directories |
+| [mklink](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/mklink)	 | Used to create symbolic link to a directory |
+| [mmc](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/mmc)	 | Access Microsoft Management Console |
+| [mode](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/mode)	 | Configure COM, LPT, CON system devies |
+| [more](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/more)	 | Display one screen of output at time |
+| [mountvol](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/mountvol)	 | Create, list, or delete a volume mount point |
+| [move](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/move)	 | Used to move files from one folder to another |
+| [msg](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/msg)	 |Used to send a pop-up message to a user |
+| [msiexec](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/msiexec)	 | Install, modify, consfigure using Windows Installer |
+| [msinfo32](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/msinfo32)	 | Display system information |
+| [mstsc](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/mstsc)	 | Create a remote desktop connection |
 
+**[⬆ Back to Index](#index)**
+### N
+| Commands | Description |
+| ---------|------------ |
+| [nbstat](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nbtstat)	 | Display NetBIOS over TCP/IP information |
+| [netsh](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/netsh)	 | Display or modify network configuration |
+| [netstat](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/netstat)	 | Display active TCP/IP connections |
+| [nslookup](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup)	 | Check IP address on a Name Server |
+| [ntbackup](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ntbackup)	 | Backup data to tape using CMD or batch file |
+| [ntcmdprompt](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ntcmdprompt)	 | Runs cmd.exe instead of command.exe in an MS-DOS application |
 
+**[⬆ Back to Index](#index)**
+### O
+| Commands | Description |
+| ---------|------------ |
+| [offline](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/offline)	 | Takes an online disk or volume to the offline state |
+| [online](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/online)	 | Takes an offline disk or volume to the online state |
+| [openfiles](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/openfiles)	 | Queries or displays open files |
 
+**[⬆ Back to Index](#index)**
+### P
+| Commands | Description |
+| ---------|------------ |
+| [pagefileconfig](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/pagefileconfig)	 | Display and configure Virtual memory settings |
+| [path](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/paths)	 | Set PATH environment variable for executable files |
+| [pathping](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/pathping)	 | Latency and Packet loss info for each node in the network path |
+| [pause](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/pause)	 | Used to stop processing of a batch file |
+| [pbadmin](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/pbadmin)	 | Starts Phone Book Administrator |
+| [pentnt](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/pentnt)	 | Detect Floating Point Division error in the Pentium chip |
+| [perfmon](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/perfmon)	 | Access performance monitor in CMD |
+| [ping](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ping)	 | Test network connection to a computer |
+| [popd](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/popd)	 | Go to the latest path/folder stored by PUSHD command |
+| [powercfg](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh875530(v=ws.11))	 | Used to configure power settings and know battery health |
+| [powershell](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/powershell)	 | Used to start a Windows PowerShell session in a Command Prompt window |
+| [powershell_ise](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/powershell_ise)	 | Used to start a Windows PowerShell ISE session in a Command Prompt window |
+| [print](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/print)	 | Used to print a text file(s) from CMD |
+| [prncnfg](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/prncnfg)	 | Used to configure/rename a printing device |
+| [prndrvr](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/prndrvr)	 | List/add/delete printer drivers |
+| [prnjobs](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/prnjobs)	 | List/pause/resume/cancel print jobs |
+| [prnmngr](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/prnmngr)	 | List/add/delete printers, display/set default printer |
+| [prnport](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/prnport)	 | List/create/delete TCP printer ports, display/change port configuration |
+| [prnqctl](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/prnqctl)	 | Clear printer queue, print a test page |
+| [prompt](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/prompt)	 | Used to change the Prompt in CMD |
+| [pushd](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/pushd)	 | Change current folder and store previous folder for use by POPD |
+
+**[⬆ Back to Index](#index)**
+### Q
+| Commands | Description |
+| ---------|------------ |
+| [query](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/query)	 | Display information about processes |
+| [quser](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/quser)	 | Displays information about user sessions on a Remote Desktop Session Host server |
+
+**[⬆ Back to Index](#index)**
+### R
+| Commands | Description |
+| ---------|------------ |
+| [rasdial](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490979(v=technet.10))	 | Display Remote Access Service Status |
+| [recover](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/recover)	 | Recover readable data from a defective disk |
+| [reg](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/reg)	 | Display/add/change registry keys and values in Windows registry |
+| [regsvr32](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/regsvr32)	 | Used to register/unregister a DLL file |
+| [regini](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/regini)	 | Used to change registry permissions |
+| [relog](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/relog)	 | Export performance counters to other formats like TSV, CSV, SQL |
+| [rem](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/rem)	 | Add comments in batch file |
+| [ren](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ren)	 | Used to rename a file(s) |
+| [replace](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/replace)	 | Used to replace a file with another file of same name |
+| [rd](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/rd)	 | Used to delete a folder(s) |
+| [rmdir](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/rmdir)	 | Used to delete a folder(s) |
+| [robocopy](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy)	 | Used to copy files and folders that have changed |
+| [route](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/route_ws2008)	 | Display/change the local IP routing table |
+| [runas](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490994(v=technet.10))	 | Run a program as a different user |
+| [rundll32](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/rundll32)	 | Used to run a DLL program |
+
+**[⬆ Back to Index](#index)**
+### S
+| Commands | Description |
+| ---------|------------ |
 
 
 
