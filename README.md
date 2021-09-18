@@ -40,7 +40,7 @@
 	
 📍	Remove deprecated or unavailable commands.
 	
-📍	List only working commands, in an alphabetical order.	
+📍	List only (latest OS) working commands, in an alphabetical order.	
 	
 `Help is always appreciated`
 	
@@ -55,7 +55,7 @@
 | [arp](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490864(v=technet.10)) | Address Resolution Protocol is used to map IP address to the hardware address |
 | [at](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490866(v=technet.10))	 | Run a command at a specific time |
 | [attrib](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490868(v=technet.10))	 ✔️		| Used to change file attributes |  
-| [assoc](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490865(v=technet.10))	 | Used to change associations for file extensions | 
+| [assoc](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490865(v=technet.10))	 ✔️		| Used to change associations for file extensions | 
 
 **[⬆ Back to Index](#-index)**
 ### B
@@ -145,7 +145,7 @@
 ### F
 | Commands | Description |
 | ---------|------------ |
-| [fc](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/fc)	 | Used to compare two files |
+| [fc](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/fc)	 ✔️		| Used to compare two files |
 | [find](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/find)	 ✔️		| Used to search a specified text string in a file |
 | [findstr](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/findstr)	 | Used to find string patterns in files |
 | [finger](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/finger)	 | Display information about user(s) on a specified remote computer |
@@ -249,7 +249,7 @@
 | [perfmon](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/perfmon)	 | Access performance monitor in CMD |
 | [ping](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ping)	 ✔️		| Test network connection to a computer |
 | [popd](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/popd)	 | Go to the latest path/folder stored by PUSHD command |
-| [powercfg](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh875530(v=ws.11))	 | Used to configure power settings and know battery health |
+| [powercfg](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh875530(v=ws.11))	 ✔️		| Used to configure power settings and know battery health |
 | [powershell](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/powershell)	 ✔️		| Used to start a Windows PowerShell session in a Command Prompt window |
 | [powershell_ise](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/powershell_ise)	 | Used to start a Windows PowerShell ISE session in a Command Prompt window |
 | [print](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/print)	 | Used to print a text file(s) from CMD |
@@ -294,7 +294,7 @@
 | Commands | Description |
 | ---------|------------ |
 | [sc](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490995(v=technet.10))	 | Use Service Controller to manage Windows services |
-| [schtasks](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks)	 | Schedule command(s) to run at a specific time |
+| [schtasks](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks)	 ✔️		| Schedule command(s) to run at a specific time |
 | [secedit](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/secedit)	 | Configure system security |
 | [set](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/set_1)	 ✔️		| Display/set/remove environment variables in CMD |
 | [setlocal](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb491001(v=technet.10))	 | Control visibility of environment variables in a batch file |
@@ -322,7 +322,7 @@
 | [timeout](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/timeout)	 | Delay a batch file execution for specified seconds |
 | [title](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/title)	 ✔️		| Change the text on top of CMD window |
 | [tracerpt](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tracerpt)	 | Process event trace logs and generate trace analysis report |
-| [tracert](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tracert)	 | Trace route to a remote host by sending ICMP request messages |
+| [tracert](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tracert)	 ✔️		| Trace route to a remote host by sending ICMP request messages |
 | [tree](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tree)	 ✔️		| Display a folder structure in the form of a graphical tree |
 | [tsdiscon](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tsdiscon)	 | Terminate a remote desktop connection |
 | [tskill](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tskill)	 ✔️		| Terminate a running process on a RD Session Host server |
