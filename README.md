@@ -18,8 +18,8 @@
 
 ## Index
 
-  [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m)
-| [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) 
+  [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [L](#l) | [M](#m)
+| [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x)
 
 ### A
 | Commands | Description |
@@ -265,15 +265,74 @@
 ### S
 | Commands | Description |
 | ---------|------------ |
+| [sc](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490995(v=technet.10))	 | Use Service Controller to manage Windows services |
+| [schtasks](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks)	 | Schedule command(s) to run at a specific time |
+| [secedit](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/secedit)	 | Configure system security |
+| [set](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/set_1)	 | Display/set/remove environment variables in CMD |
+| [setlocal](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb491001(v=technet.10))	 | Control visibility of environment variables in a batch file |
+| [setx](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/setx)	 | Set Environment Variables permanently |
+| [sfc](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/sfc)	 | System File Checker |
+| [shift](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/shift)	 | Change the position of the batch parameters in a batch file |
+| [slmgr](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn502540(v=ws.11))	 | Software Licensing Management tool for activation and KMS |
+| [sort](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/sort)	 | Used to sort and display a redirected or piped input |
+| [start](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/start)	 | Start a program, command, or batch file |
+| [strings](https://docs.microsoft.com/en-us/sysinternals/downloads/strings)	 | Find ANSI and UNICODE strings in binary files |
+| [subst](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/subst)	 | Associate a path with a drive letter |
+| [systeminfo](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/systeminfo)	 | Display detailed configuration information about the computer |
 
+**[⬆ Back to Index](#index)**
+### T
+| Commands | Description |
+| ---------|------------ |
+| [takeown](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/takeown)	 | Used to take the ownership of a file |
+| [taskkill](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/taskkill)	 | Used to terminate one or more running processes |
+| [tasklist](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tasklist)	 | Display a list of running apps and services |
+| [tcmsetup](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tcmsetup)	 | Enable/disable TAPI client |
+| [telnet](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/telnet)	 | Communicate with a remote machine using TELNET protocol |
+| [tftp](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tftp)	 | Transfer files to and from a remote machine running TFTP protocol |
+| [time](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/time)	 | Display/change system time |
+| [timeout](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/timeout)	 | Delay a batch file execution for specified seconds |
+| [title](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/title)	 | Change the text on top of CMD window |
+| [tracerpt](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tracerpt)	 | Process event trace logs and generate trace analysis report |
+| [tracert](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tracert)	 | Trace route to a remote host by sending ICMP request messages |
+| [tree](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tree)	 | Display a folder structure in the form of a graphical tree |
+| [tsdiscon](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tsdiscon)	 | Terminate a remote desktop connection |
+| [tskill](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tskill)	 | Terminate a running process on a RD Session Host server |
+| [type](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/type)	 | Show contents of a text file |
+| [typeperf](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/typeperf)	 | Write performance data to a CMD window or a log file |
+| [tzutil](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tzutil)	 | Time Zone Utility |
 
+**[⬆ Back to Index](#index)**
+### U
+| Commands | Description |
+| ---------|------------ |
+| [uniqueid](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/uniqueid)	 | Displays or sets the GUID partition table (GPT) identifier or master boot record (MBR) signature |
+| [unlodctr](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/unlodctr)	 | Remove performance counter names and explain text for a service from the registry |
 
+**[⬆ Back to Index](#index)**
+### V
+| Commands | Description |
+| ---------|------------ |
+| [ver](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ver)	 | Show version number of installed OS |
+| [verify](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/verify)	 | Verify whether files are saved correctly on the disk |
+| [vol](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/vol)	 | Show disk volume label and serial number |
+| [vssadmin](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/vssadmin)	 | Show shadow copy backups, installed shadow copy writers and providers |
 
+**[⬆ Back to Index](#index)**
+### W
+| Commands | Description |
+| ---------|------------ |
+| [waitfor](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/waitfor)	 | Used to synchronise events between networked computer(s) |
+| [wevtutil](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wevtutil)	 | Retrieve information about event logs and publishers |
+| [where](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/where)	 | Find and display file(s) in the current directory |
+| [whoami](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/whoami)	 | Display information about the active user |
+| [winrs](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/winrs)	 | Windows Remote Shell |
+| [wmic](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wmic)	 | Windows Management Instrumentation Command |
+| [wscript](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wscript)	 | Used to execute scripts in a variety of languages |
 
-
-
-
-
-
-
+**[⬆ Back to Index](#index)**
+### X
+| Commands | Description |
+| ---------|------------ |
+| [xcopy](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/xcopy)	 | Copy files or directory trees to another folder |
 
