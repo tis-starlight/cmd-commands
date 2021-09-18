@@ -364,3 +364,9 @@
 | ---------|------------ |
 | [xcopy](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/xcopy)	 ✔️		| Copy files or directory trees to another folder |
 
+**[⬆ Back to Index](#-index)**
+	
+<br>	
+		
+## License
+[MIT](LICENSE)
