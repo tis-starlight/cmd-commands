@@ -11,7 +11,7 @@
   <br>
    <a href="https://github.com/Ravensoft128/cmd-commands">
     <img alt="Commands" src="https://img.shields.io/badge/Commands-working-green" />
-    <img alt="Number of Commands" src="https://img.shields.io/badge/Number%20of%20Commands-000-blue" />
+    <img alt="Number of Commands" src="https://img.shields.io/badge/Number%20of%20Commands-206-blue" />
 	 <a/>
            
 </div>
