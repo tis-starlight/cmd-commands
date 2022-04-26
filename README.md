@@ -52,7 +52,7 @@
 ### A
 | Commands | Description |
 | ---------|------------ |
-| [arp](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490864(v=technet.10)) | Address Resolution Protocol is used to map IP address to the hardware address |
+| [arp](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490864(v=technet.10)) 	✔️		| Address Resolution Protocol is used to map IP address to the hardware address |
 | [at](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490866(v=technet.10))	 | Run a command at a specific time |
 | [attrib](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490868(v=technet.10))	 ✔️		| Used to change file attributes |  
 | [assoc](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490865(v=technet.10))	 ✔️		| Used to change associations for file extensions | 
